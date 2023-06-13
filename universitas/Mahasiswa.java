@@ -38,9 +38,9 @@ public class Mahasiswa {
     public String getDetail() {
       System.out.println("nama \t: "+ nama);
       System.out.println("npm \t: "+ npm);
-      System.out.println("NPM \t: "+ prodi);
-        String detail;
-        return detail;
+      System.out.println("prodi \t: "+ prodi);
+        return null;
+        
     }
 
     
